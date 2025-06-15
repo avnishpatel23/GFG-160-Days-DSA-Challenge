@@ -1,5 +1,6 @@
 // Day 2 - Move all zeros to end of array //
 
+
 class Solution {
     void pushZerosToEnd(int[] arr) {
         int n = arr.length;
