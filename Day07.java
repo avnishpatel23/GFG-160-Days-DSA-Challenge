@@ -1,3 +1,5 @@
+// Maximum Profit
+
 class Solution {
     public int maximumProfit(int prices[]) {
         int profit = 0;
