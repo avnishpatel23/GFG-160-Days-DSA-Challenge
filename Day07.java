@@ -1,4 +1,4 @@
-// Maximum Profit
+// Day 7 - Stock Buy and Sell (With No Limit)
 
 class Solution {
     public int maximumProfit(int prices[]) {
