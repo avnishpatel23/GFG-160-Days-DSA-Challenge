@@ -1,4 +1,5 @@
-import java.util.Arrays;
+// Day 13 - First Missing Positive
+
 
 class Solution {
     // Function to find the smallest positive missing number
