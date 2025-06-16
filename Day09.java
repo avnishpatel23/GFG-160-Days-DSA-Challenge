@@ -1,4 +1,4 @@
-import java.util.Arrays;
+// Day 9 - Minimize the Heights
 
 class Solution {
     int getMinDiff(int[] arr, int k) {
