@@ -1,3 +1,5 @@
+// Day 23 - Count Inversions
+
 class Solution {
     private int mergeAndCount(int[] arr, int[] temp, int left, int mid, int right) {
         int i = left, j = mid + 1, k = left, inversions = 0;
