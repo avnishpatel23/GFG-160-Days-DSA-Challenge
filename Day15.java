@@ -1,3 +1,5 @@
+// Day 15 - Add Two Binary Strings
+
 class Solution {
 
     // Function to add two binary strings
