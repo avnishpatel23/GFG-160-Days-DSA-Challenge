@@ -1,3 +1,5 @@
+// Day 21 - Sort an array of 0s, 1s and 2s
+
 class Solution {
     public void sort012(int[] arr) {
         int low = 0, mid = 0, high = arr.length - 1;
