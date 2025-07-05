@@ -1,3 +1,6 @@
+// Day 26 - Minimum removals required to make ranges non-overlapping
+
+
 class Solution {
     static int minRemoval(int intervals[][]) {
         int cnt = 0;
