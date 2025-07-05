@@ -1,3 +1,5 @@
+// Day 17 - First Non-Repeating Character
+
 class Solution {
     static char nonRepeatingChar(String s) {
         int arr[] = new int[28];
