@@ -1,6 +1,7 @@
 // Day 1 - Second Largest Element in an Array //
 
 
+
 class Solution {
     public int getSecondLargest(int[] arr) {
         int a = arr.length;
